@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "name": "sss",
+  "version": "0.0.1",
+  "main": "master.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node master.js"
+  },
+  "author": "kwii",
+  "license": "ISC",
+  "description": ""
+}
